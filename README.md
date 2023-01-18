@@ -2,22 +2,30 @@
 ## Participants
 * abs
 * bcd
+
+## Objective
+To develop a LinkedIn-like app.
+
 ## Technologies Used
+
 **Frontend**
-* abc
-* def  
+* Thymeleaf
+* Tailwind CSS
 
 **Backend**
-* abc
-* def
+* Java Spring Boot
 
 **Database**
-* abc
-* def
+* Postgresql
 
 ## Description 
-Write here
+Synapsis is a professional networking site that is built to satisfy users’ business needs. The app allows professionals to connect with others, search for jobs and manage job postings (for certain users only) amongst other features. This product has been built as part of the SOEN 390 course, and is accessible on all devices that enable web browsing (including mobile phones).
 
 
 ## Core Features  
-write core features here
+* User Profile Creation
+* Getting connected with other users
+* Messaging between connected users
+* Managing job postings
+* Storing user documents
+
